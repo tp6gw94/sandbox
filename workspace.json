@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "optimization-react": "apps/optimization-react",
+    "optimization-react-e2e": "apps/optimization-react-e2e"
+  }
+}
